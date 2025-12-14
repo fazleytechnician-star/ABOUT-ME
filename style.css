@@ -1,0 +1,28 @@
+body{
+    background-image: url("goto.jpg");
+    background-size: 100pc;
+}
+<style>
+    h2{
+     color: red;
+    }
+    h3{
+        color: navy;
+    }
+    h4,h5,h6{
+        color: green;
+    }
+
+    .card{
+        border:dashed 2px red; 
+        margin-top: 100px;
+        margin-left: 20px;
+        margin-right: 50px;
+        padding: 50px;
+        text-align: left;
+        background-color:yellow;
+
+        
+
+
+
